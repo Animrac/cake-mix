@@ -1,4 +1,4 @@
-# cake-mix
+# Cake Mix
 A short, sweet game I made with RPG Maker MZ, preferrably played after PUQFFAL.
 
 # How to Play:
